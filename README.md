@@ -12,3 +12,9 @@ The Ambulance: After the ambulance arrives, the bot can give important details t
 Apart from this we will also have an app called MyMedibuddy for diagnosis of common problems like cold & flu, asthama, allergies etc. The user will enter the symptoms experienced by them and on the basis of that the app will give the diagnosis and will recommend the medication to be taken.
 This app will be pre-installed on the MyMedibot and will facilitate all the above mentioned operations.
 
+Software Used:
+3D Model: Sketchup Make 2017
+Presentation: Canva
+
+Links:
+Presentation: https://www.canva.com/design/DAFNudyQsSk/xG5nLYoRx3oQFDHQK_2duA/edit?utm_content=DAFNudyQsSk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
